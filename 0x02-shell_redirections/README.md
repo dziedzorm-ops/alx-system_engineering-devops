@@ -11,3 +11,4 @@ Display all lines starting with a letter
 19. Replace characters
 script that removes all letters
 21. Reverse input
+22. Display users and their home dir
