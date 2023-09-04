@@ -5,3 +5,4 @@
 Prints words that appear exactly once
 14. Display lines containing the pattern root
 15. Display number of lines with pattern bin 
+Display lines containing the pattern “root” and 3 lines after them
