@@ -10,3 +10,4 @@ Display lines containing the pattern “root” and 3 lines after them
 Display all lines starting with a letter
 19. Replace characters
 script that removes all letters
+21. Reverse input
