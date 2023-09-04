@@ -9,3 +9,4 @@ Display lines containing the pattern “root” and 3 lines after them
 17. Display line without pattern bin
 Display all lines starting with a letter
 19. Replace characters
+script that removes all letters
