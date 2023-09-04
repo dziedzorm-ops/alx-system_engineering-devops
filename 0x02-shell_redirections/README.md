@@ -3,3 +3,4 @@
 10. Deletes all regular files with a .js
 12. Display 10 newest files
 Prints words that appear exactly once
+14. Display lines containing the pattern root
