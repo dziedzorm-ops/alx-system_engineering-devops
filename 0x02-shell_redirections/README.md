@@ -4,3 +4,4 @@
 12. Display 10 newest files
 Prints words that appear exactly once
 14. Display lines containing the pattern root
+15. Display number of lines with pattern bin 
