@@ -7,3 +7,4 @@ Prints words that appear exactly once
 15. Display number of lines with pattern bin 
 Display lines containing the pattern “root” and 3 lines after them
 17. Display line without pattern bin
+Display all lines starting with a letter
