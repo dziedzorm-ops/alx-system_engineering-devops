@@ -7,3 +7,4 @@
 6. A script that creates local variable
 7. A script that create global variable
 8. A scripts that prints result of addition ...
+9. A script that prints the result of POWER divided by DIVIDE
