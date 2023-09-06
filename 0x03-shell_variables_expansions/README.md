@@ -8,3 +8,4 @@
 7. A script that create global variable
 8. A scripts that prints result of addition ...
 9. A script that prints the result of POWER divided by DIVIDE
+10. A script that displays the result of BREATH to the power LOVE
